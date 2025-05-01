@@ -1,6 +1,3 @@
-
-
-```markdown
 # Yallakora Match Scraper 📅⚽
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)  
@@ -33,8 +30,8 @@ Scrape football match data from [Yallakora](https://www.yallakora.com) including
 
 2. **Enter dates** when prompted:  
    ```  
-   Enter start date (MM/DD/YYYY): 08/01/2023  
-   Enter end date (MM/DD/YYYY): 08/05/2023  
+   Enter start date (MM/DD/YYYY): 04/05/2024  
+   Enter end date (MM/DD/YYYY): 04/15/2023  
    ```
 
 3. **Check output**:  
@@ -58,30 +55,6 @@ Scrape football match data from [Yallakora](https://www.yallakora.com) including
 - **Rate limiting**: Add `time.sleep()` between requests if blocked.  
 - **Anti-scraping measures**: May break if site adds CAPTCHA or changes HTML structure.  
 
----
-
-## Contributing 💡  
-1. Fork the repository  
-2. Create your feature branch (`git checkout -b feature/cool-update`)  
-3. Commit changes (`git commit -m 'Add cool feature'`)  
-4. Push to branch (`git push origin feature/cool-update`)  
-5. Open a pull request  
-
----
 
 ## License 📜  
-[MIT License](LICENSE) - Copyright (c) 2023 [Your Name]  
-```
-
-### What to add to your repository:  
-1. Create a `LICENSE` file (choose MIT or another license).  
-2. Add a sample CSV output file (e.g., `sample_output.csv`).  
-3. Include a `.gitignore` file for Python:  
-   ```  
-   # Python  
-   __pycache__/  
-   *.pyc  
-   *.pyo  
-   *.pyd  
-   .Python  
-   ``` 
+[MIT License](LICENSE) - Copyright (c) 2023 [Abdelrahman Said]  
