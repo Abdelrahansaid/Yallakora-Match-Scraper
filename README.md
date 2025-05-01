@@ -51,10 +51,10 @@ Scrape football match data from [Yallakora](https://www.yallakora.com) including
 ---
 
 ## Important Notes ⚠️  
-- **Respect website policies**: Check Yallakora's `robots.txt` and terms of service.  
+- **Respect website policies**: Check Yallakora's terms of service.  
 - **Rate limiting**: Add `time.sleep()` between requests if blocked.  
 - **Anti-scraping measures**: May break if site adds CAPTCHA or changes HTML structure.  
 
 
 ## License 📜  
-[MIT License](LICENSE) - Copyright (c) 2023 [Abdelrahman Said]  
+[MIT License](LICENSE) - Copyright (c) 2025 [Abdelrahman Said]  
