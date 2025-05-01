@@ -30,8 +30,8 @@ Scrape football match data from [Yallakora](https://www.yallakora.com) including
 
 2. **Enter dates** when prompted:  
    ```  
-   Enter start date (MM/DD/YYYY): 04/05/2024  
-   Enter end date (MM/DD/YYYY): 04/15/2023  
+   Enter start date (MM/DD/YYYY): 08/01/2023  
+   Enter end date (MM/DD/YYYY): 08/05/2023  
    ```
 
 3. **Check output**:  
